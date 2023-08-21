@@ -57,7 +57,7 @@ public class FuncaoCarro
             Console.WriteLine("Carros cadastrados:");
             foreach (var carro in listaCarros)
             {
-                Console.WriteLine($"Modelo: {carro.Key}\nPreço: {carro.Value}\n");
+                Console.WriteLine($"Modelo: {carro.Key}\nPreço: {carro.Value}\n\n");
             }
         }
 
