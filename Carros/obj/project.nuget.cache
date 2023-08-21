@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNa+uxwE4LpvvCOoYT9NZvHH8nD8Q7sny85J7vikEI5tdc6Iu3X7c8xy+I15xM6brswHgv6sMgPo71wLXLd4IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\aluraCSharp\\Carros\\Carros\\Carros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
